@@ -1,6 +1,6 @@
 ### Miniclip DevOps Test Task
 
-- Answers to the [First Scenario](./answers.md)
+- Answers to the [First Scenario](./answers.md) and the [Re-design proposal of jekins](./jenkis_proposal_architecture.pdf)
 
 - Steps to the Second Scenario:
 
