@@ -1,5 +1,5 @@
 
-1)Indicate architecture re-design and/or changes in build flow that can help you achieve those goal and provide reasoning why;
+## 1)Indicate architecture re-design and/or changes in build flow that can help you achieve those goal and provide reasoning why;
 
 -  About the  build times:
 
