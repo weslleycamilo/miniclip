@@ -35,7 +35,7 @@ the infrastructure in the attached doc.
 1.2) Use AWS ASG fleet:
  - It is the best way AWS provide to have a mix of instance types and make possible to work out with more spot instance since you'll pick up a range of instance types to avoid problems with spot market problems.
 
-Other improvements, some of the may increase the costs:
+Some other no related improvements we could acomplish:
 
 - Use everyhing in private subnets
 - Create multiple jenkis masters
